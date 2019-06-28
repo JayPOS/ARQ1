@@ -6,7 +6,7 @@
 *gcc -o m main.c -mavx -mavx2 -Wall*
 
 
-#Requisitos para executar:
+# Requisitos para executar:
 
 **Possuir processador com AVX e AVX2**
 
